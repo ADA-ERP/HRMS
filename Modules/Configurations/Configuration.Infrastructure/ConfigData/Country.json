@@ -1,0 +1,1212 @@
+[
+    {
+        "Name": "Afghanistan",
+        "AreaCode": "+93",
+        "ISOCode": "AF"
+    },
+    {
+        "Name": "Aland Islands",
+        "AreaCode": "+358",
+        "ISOCode": "AX"
+    },
+    {
+        "Name": "Albania",
+        "AreaCode": "+355",
+        "ISOCode": "AL"
+    },
+    {
+        "Name": "Algeria",
+        "AreaCode": "+213",
+        "ISOCode": "DZ"
+    },
+    {
+        "Name": "AmericanSamoa",
+        "AreaCode": "+1684",
+        "ISOCode": "AS"
+    },
+    {
+        "Name": "Andorra",
+        "AreaCode": "+376",
+        "ISOCode": "AD"
+    },
+    {
+        "Name": "Angola",
+        "AreaCode": "+244",
+        "ISOCode": "AO"
+    },
+    {
+        "Name": "Anguilla",
+        "AreaCode": "+1264",
+        "ISOCode": "AI"
+    },
+    {
+        "Name": "Antarctica",
+        "AreaCode": "+672",
+        "ISOCode": "AQ"
+    },
+    {
+        "Name": "Antigua and Barbuda",
+        "AreaCode": "+1268",
+        "ISOCode": "AG"
+    },
+    {
+        "Name": "Argentina",
+        "AreaCode": "+54",
+        "ISOCode": "AR"
+    },
+    {
+        "Name": "Armenia",
+        "AreaCode": "+374",
+        "ISOCode": "AM"
+    },
+    {
+        "Name": "Aruba",
+        "AreaCode": "+297",
+        "ISOCode": "AW"
+    },
+    {
+        "Name": "Australia",
+        "AreaCode": "+61",
+        "ISOCode": "AU"
+    },
+    {
+        "Name": "Austria",
+        "AreaCode": "+43",
+        "ISOCode": "AT"
+    },
+    {
+        "Name": "Azerbaijan",
+        "AreaCode": "+994",
+        "ISOCode": "AZ"
+    },
+    {
+        "Name": "Bahamas",
+        "AreaCode": "+1242",
+        "ISOCode": "BS"
+    },
+    {
+        "Name": "Bahrain",
+        "AreaCode": "+973",
+        "ISOCode": "BH"
+    },
+    {
+        "Name": "Bangladesh",
+        "AreaCode": "+880",
+        "ISOCode": "BD"
+    },
+    {
+        "Name": "Barbados",
+        "AreaCode": "+1246",
+        "ISOCode": "BB"
+    },
+    {
+        "Name": "Belarus",
+        "AreaCode": "+375",
+        "ISOCode": "BY"
+    },
+    {
+        "Name": "Belgium",
+        "AreaCode": "+32",
+        "ISOCode": "BE"
+    },
+    {
+        "Name": "Belize",
+        "AreaCode": "+501",
+        "ISOCode": "BZ"
+    },
+    {
+        "Name": "Benin",
+        "AreaCode": "+229",
+        "ISOCode": "BJ"
+    },
+    {
+        "Name": "Bermuda",
+        "AreaCode": "+1441",
+        "ISOCode": "BM"
+    },
+    {
+        "Name": "Bhutan",
+        "AreaCode": "+975",
+        "ISOCode": "BT"
+    },
+    {
+        "Name": "Bolivia, Plurinational State of",
+        "AreaCode": "+591",
+        "ISOCode": "BO"
+    },
+    {
+        "Name": "Bosnia and Herzegovina",
+        "AreaCode": "+387",
+        "ISOCode": "BA"
+    },
+    {
+        "Name": "Botswana",
+        "AreaCode": "+267",
+        "ISOCode": "BW"
+    },
+    {
+        "Name": "Brazil",
+        "AreaCode": "+55",
+        "ISOCode": "BR"
+    },
+    {
+        "Name": "British Indian Ocean Territory",
+        "AreaCode": "+246",
+        "ISOCode": "IO"
+    },
+    {
+        "Name": "Brunei Darussalam",
+        "AreaCode": "+673",
+        "ISOCode": "BN"
+    },
+    {
+        "Name": "Bulgaria",
+        "AreaCode": "+359",
+        "ISOCode": "BG"
+    },
+    {
+        "Name": "Burkina Faso",
+        "AreaCode": "+226",
+        "ISOCode": "BF"
+    },
+    {
+        "Name": "Burundi",
+        "AreaCode": "+257",
+        "ISOCode": "BI"
+    },
+    {
+        "Name": "Cambodia",
+        "AreaCode": "+855",
+        "ISOCode": "KH"
+    },
+    {
+        "Name": "Cameroon",
+        "AreaCode": "+237",
+        "ISOCode": "CM"
+    },
+    {
+        "Name": "Canada",
+        "AreaCode": "+1",
+        "ISOCode": "CA"
+    },
+    {
+        "Name": "Cape Verde",
+        "AreaCode": "+238",
+        "ISOCode": "CV"
+    },
+    {
+        "Name": "Cayman Islands",
+        "AreaCode": "+ 345",
+        "ISOCode": "KY"
+    },
+    {
+        "Name": "Central African Republic",
+        "AreaCode": "+236",
+        "ISOCode": "CF"
+    },
+    {
+        "Name": "Chad",
+        "AreaCode": "+235",
+        "ISOCode": "TD"
+    },
+    {
+        "Name": "Chile",
+        "AreaCode": "+56",
+        "ISOCode": "CL"
+    },
+    {
+        "Name": "China",
+        "AreaCode": "+86",
+        "ISOCode": "CN"
+    },
+    {
+        "Name": "Christmas Island",
+        "AreaCode": "+61",
+        "ISOCode": "CX"
+    },
+    {
+        "Name": "Cocos (Keeling) Islands",
+        "AreaCode": "+61",
+        "ISOCode": "CC"
+    },
+    {
+        "Name": "Colombia",
+        "AreaCode": "+57",
+        "ISOCode": "CO"
+    },
+    {
+        "Name": "Comoros",
+        "AreaCode": "+269",
+        "ISOCode": "KM"
+    },
+    {
+        "Name": "Congo",
+        "AreaCode": "+242",
+        "ISOCode": "CG"
+    },
+    {
+        "Name": "Congo, The Democratic Republic of the Congo",
+        "AreaCode": "+243",
+        "ISOCode": "CD"
+    },
+    {
+        "Name": "Cook Islands",
+        "AreaCode": "+682",
+        "ISOCode": "CK"
+    },
+    {
+        "Name": "Costa Rica",
+        "AreaCode": "+506",
+        "ISOCode": "CR"
+    },
+    {
+        "Name": "Cote d'Ivoire",
+        "AreaCode": "+225",
+        "ISOCode": "CI"
+    },
+    {
+        "Name": "Croatia",
+        "AreaCode": "+385",
+        "ISOCode": "HR"
+    },
+    {
+        "Name": "Cuba",
+        "AreaCode": "+53",
+        "ISOCode": "CU"
+    },
+    {
+        "Name": "Cyprus",
+        "AreaCode": "+357",
+        "ISOCode": "CY"
+    },
+    {
+        "Name": "Czech Republic",
+        "AreaCode": "+420",
+        "ISOCode": "CZ"
+    },
+    {
+        "Name": "Denmark",
+        "AreaCode": "+45",
+        "ISOCode": "DK"
+    },
+    {
+        "Name": "Djibouti",
+        "AreaCode": "+253",
+        "ISOCode": "DJ"
+    },
+    {
+        "Name": "Dominica",
+        "AreaCode": "+1767",
+        "ISOCode": "DM"
+    },
+    {
+        "Name": "Dominican Republic",
+        "AreaCode": "+1849",
+        "ISOCode": "DO"
+    },
+    {
+        "Name": "Ecuador",
+        "AreaCode": "+593",
+        "ISOCode": "EC"
+    },
+    {
+        "Name": "Egypt",
+        "AreaCode": "+20",
+        "ISOCode": "EG"
+    },
+    {
+        "Name": "El Salvador",
+        "AreaCode": "+503",
+        "ISOCode": "SV"
+    },
+    {
+        "Name": "Equatorial Guinea",
+        "AreaCode": "+240",
+        "ISOCode": "GQ"
+    },
+    {
+        "Name": "Eritrea",
+        "AreaCode": "+291",
+        "ISOCode": "ER"
+    },
+    {
+        "Name": "Estonia",
+        "AreaCode": "+372",
+        "ISOCode": "EE"
+    },
+    {
+        "Name": "Ethiopia",
+        "AreaCode": "+251",
+        "ISOCode": "ET"
+    },
+    {
+        "Name": "Falkland Islands (Malvinas)",
+        "AreaCode": "+500",
+        "ISOCode": "FK"
+    },
+    {
+        "Name": "Faroe Islands",
+        "AreaCode": "+298",
+        "ISOCode": "FO"
+    },
+    {
+        "Name": "Fiji",
+        "AreaCode": "+679",
+        "ISOCode": "FJ"
+    },
+    {
+        "Name": "Finland",
+        "AreaCode": "+358",
+        "ISOCode": "FI"
+    },
+    {
+        "Name": "France",
+        "AreaCode": "+33",
+        "ISOCode": "FR"
+    },
+    {
+        "Name": "French Guiana",
+        "AreaCode": "+594",
+        "ISOCode": "GF"
+    },
+    {
+        "Name": "French Polynesia",
+        "AreaCode": "+689",
+        "ISOCode": "PF"
+    },
+    {
+        "Name": "Gabon",
+        "AreaCode": "+241",
+        "ISOCode": "GA"
+    },
+    {
+        "Name": "Gambia",
+        "AreaCode": "+220",
+        "ISOCode": "GM"
+    },
+    {
+        "Name": "Georgia",
+        "AreaCode": "+995",
+        "ISOCode": "GE"
+    },
+    {
+        "Name": "Germany",
+        "AreaCode": "+49",
+        "ISOCode": "DE"
+    },
+    {
+        "Name": "Ghana",
+        "AreaCode": "+233",
+        "ISOCode": "GH"
+    },
+    {
+        "Name": "Gibraltar",
+        "AreaCode": "+350",
+        "ISOCode": "GI"
+    },
+    {
+        "Name": "Greece",
+        "AreaCode": "+30",
+        "ISOCode": "GR"
+    },
+    {
+        "Name": "Greenland",
+        "AreaCode": "+299",
+        "ISOCode": "GL"
+    },
+    {
+        "Name": "Grenada",
+        "AreaCode": "+1473",
+        "ISOCode": "GD"
+    },
+    {
+        "Name": "Guadeloupe",
+        "AreaCode": "+590",
+        "ISOCode": "GP"
+    },
+    {
+        "Name": "Guam",
+        "AreaCode": "+1671",
+        "ISOCode": "GU"
+    },
+    {
+        "Name": "Guatemala",
+        "AreaCode": "+502",
+        "ISOCode": "GT"
+    },
+    {
+        "Name": "Guernsey",
+        "AreaCode": "+44",
+        "ISOCode": "GG"
+    },
+    {
+        "Name": "Guinea",
+        "AreaCode": "+224",
+        "ISOCode": "GN"
+    },
+    {
+        "Name": "Guinea-Bissau",
+        "AreaCode": "+245",
+        "ISOCode": "GW"
+    },
+    {
+        "Name": "Guyana",
+        "AreaCode": "+595",
+        "ISOCode": "GY"
+    },
+    {
+        "Name": "Haiti",
+        "AreaCode": "+509",
+        "ISOCode": "HT"
+    },
+    {
+        "Name": "Holy See (Vatican City State)",
+        "AreaCode": "+379",
+        "ISOCode": "VA"
+    },
+    {
+        "Name": "Honduras",
+        "AreaCode": "+504",
+        "ISOCode": "HN"
+    },
+    {
+        "Name": "Hong Kong",
+        "AreaCode": "+852",
+        "ISOCode": "HK"
+    },
+    {
+        "Name": "Hungary",
+        "AreaCode": "+36",
+        "ISOCode": "HU"
+    },
+    {
+        "Name": "Iceland",
+        "AreaCode": "+354",
+        "ISOCode": "IS"
+    },
+    {
+        "Name": "India",
+        "AreaCode": "+91",
+        "ISOCode": "IN"
+    },
+    {
+        "Name": "Indonesia",
+        "AreaCode": "+62",
+        "ISOCode": "ID"
+    },
+    {
+        "Name": "Iran, Islamic Republic of Persian Gulf",
+        "AreaCode": "+98",
+        "ISOCode": "IR"
+    },
+    {
+        "Name": "Iraq",
+        "AreaCode": "+964",
+        "ISOCode": "IQ"
+    },
+    {
+        "Name": "Ireland",
+        "AreaCode": "+353",
+        "ISOCode": "IE"
+    },
+    {
+        "Name": "Isle of Man",
+        "AreaCode": "+44",
+        "ISOCode": "IM"
+    },
+    {
+        "Name": "Israel",
+        "AreaCode": "+972",
+        "ISOCode": "IL"
+    },
+    {
+        "Name": "Italy",
+        "AreaCode": "+39",
+        "ISOCode": "IT"
+    },
+    {
+        "Name": "Jamaica",
+        "AreaCode": "+1876",
+        "ISOCode": "JM"
+    },
+    {
+        "Name": "Japan",
+        "AreaCode": "+81",
+        "ISOCode": "JP"
+    },
+    {
+        "Name": "Jersey",
+        "AreaCode": "+44",
+        "ISOCode": "JE"
+    },
+    {
+        "Name": "Jordan",
+        "AreaCode": "+962",
+        "ISOCode": "JO"
+    },
+    {
+        "Name": "Kazakhstan",
+        "AreaCode": "+77",
+        "ISOCode": "KZ"
+    },
+    {
+        "Name": "Kenya",
+        "AreaCode": "+254",
+        "ISOCode": "KE"
+    },
+    {
+        "Name": "Kiribati",
+        "AreaCode": "+686",
+        "ISOCode": "KI"
+    },
+    {
+        "Name": "Korea, Democratic People's Republic of Korea",
+        "AreaCode": "+850",
+        "ISOCode": "KP"
+    },
+    {
+        "Name": "Korea, Republic of South Korea",
+        "AreaCode": "+82",
+        "ISOCode": "KR"
+    },
+    {
+        "Name": "Kuwait",
+        "AreaCode": "+965",
+        "ISOCode": "KW"
+    },
+    {
+        "Name": "Kyrgyzstan",
+        "AreaCode": "+996",
+        "ISOCode": "KG"
+    },
+    {
+        "Name": "Laos",
+        "AreaCode": "+856",
+        "ISOCode": "LA"
+    },
+    {
+        "Name": "Latvia",
+        "AreaCode": "+371",
+        "ISOCode": "LV"
+    },
+    {
+        "Name": "Lebanon",
+        "AreaCode": "+961",
+        "ISOCode": "LB"
+    },
+    {
+        "Name": "Lesotho",
+        "AreaCode": "+266",
+        "ISOCode": "LS"
+    },
+    {
+        "Name": "Liberia",
+        "AreaCode": "+231",
+        "ISOCode": "LR"
+    },
+    {
+        "Name": "Libyan Arab Jamahiriya",
+        "AreaCode": "+218",
+        "ISOCode": "LY"
+    },
+    {
+        "Name": "Liechtenstein",
+        "AreaCode": "+423",
+        "ISOCode": "LI"
+    },
+    {
+        "Name": "Lithuania",
+        "AreaCode": "+370",
+        "ISOCode": "LT"
+    },
+    {
+        "Name": "Luxembourg",
+        "AreaCode": "+352",
+        "ISOCode": "LU"
+    },
+    {
+        "Name": "Macao",
+        "AreaCode": "+853",
+        "ISOCode": "MO"
+    },
+    {
+        "Name": "Macedonia",
+        "AreaCode": "+389",
+        "ISOCode": "MK"
+    },
+    {
+        "Name": "Madagascar",
+        "AreaCode": "+261",
+        "ISOCode": "MG"
+    },
+    {
+        "Name": "Malawi",
+        "AreaCode": "+265",
+        "ISOCode": "MW"
+    },
+    {
+        "Name": "Malaysia",
+        "AreaCode": "+60",
+        "ISOCode": "MY"
+    },
+    {
+        "Name": "Maldives",
+        "AreaCode": "+960",
+        "ISOCode": "MV"
+    },
+    {
+        "Name": "Mali",
+        "AreaCode": "+223",
+        "ISOCode": "ML"
+    },
+    {
+        "Name": "Malta",
+        "AreaCode": "+356",
+        "ISOCode": "MT"
+    },
+    {
+        "Name": "Marshall Islands",
+        "AreaCode": "+692",
+        "ISOCode": "MH"
+    },
+    {
+        "Name": "Martinique",
+        "AreaCode": "+596",
+        "ISOCode": "MQ"
+    },
+    {
+        "Name": "Mauritania",
+        "AreaCode": "+222",
+        "ISOCode": "MR"
+    },
+    {
+        "Name": "Mauritius",
+        "AreaCode": "+230",
+        "ISOCode": "MU"
+    },
+    {
+        "Name": "Mayotte",
+        "AreaCode": "+262",
+        "ISOCode": "YT"
+    },
+    {
+        "Name": "Mexico",
+        "AreaCode": "+52",
+        "ISOCode": "MX"
+    },
+    {
+        "Name": "Micronesia, Federated States of Micronesia",
+        "AreaCode": "+691",
+        "ISOCode": "FM"
+    },
+    {
+        "Name": "Moldova",
+        "AreaCode": "+373",
+        "ISOCode": "MD"
+    },
+    {
+        "Name": "Monaco",
+        "AreaCode": "+377",
+        "ISOCode": "MC"
+    },
+    {
+        "Name": "Mongolia",
+        "AreaCode": "+976",
+        "ISOCode": "MN"
+    },
+    {
+        "Name": "Montenegro",
+        "AreaCode": "+382",
+        "ISOCode": "ME"
+    },
+    {
+        "Name": "Montserrat",
+        "AreaCode": "+1664",
+        "ISOCode": "MS"
+    },
+    {
+        "Name": "Morocco",
+        "AreaCode": "+212",
+        "ISOCode": "MA"
+    },
+    {
+        "Name": "Mozambique",
+        "AreaCode": "+258",
+        "ISOCode": "MZ"
+    },
+    {
+        "Name": "Myanmar",
+        "AreaCode": "+95",
+        "ISOCode": "MM"
+    },
+    {
+        "Name": "Namibia",
+        "AreaCode": "+264",
+        "ISOCode": "NA"
+    },
+    {
+        "Name": "Nauru",
+        "AreaCode": "+674",
+        "ISOCode": "NR"
+    },
+    {
+        "Name": "Nepal",
+        "AreaCode": "+977",
+        "ISOCode": "NP"
+    },
+    {
+        "Name": "Netherlands",
+        "AreaCode": "+31",
+        "ISOCode": "NL"
+    },
+    {
+        "Name": "Netherlands Antilles",
+        "AreaCode": "+599",
+        "ISOCode": "AN"
+    },
+    {
+        "Name": "New Caledonia",
+        "AreaCode": "+687",
+        "ISOCode": "NC"
+    },
+    {
+        "Name": "New Zealand",
+        "AreaCode": "+64",
+        "ISOCode": "NZ"
+    },
+    {
+        "Name": "Nicaragua",
+        "AreaCode": "+505",
+        "ISOCode": "NI"
+    },
+    {
+        "Name": "Niger",
+        "AreaCode": "+227",
+        "ISOCode": "NE"
+    },
+    {
+        "Name": "Nigeria",
+        "AreaCode": "+234",
+        "ISOCode": "NG"
+    },
+    {
+        "Name": "Niue",
+        "AreaCode": "+683",
+        "ISOCode": "NU"
+    },
+    {
+        "Name": "Norfolk Island",
+        "AreaCode": "+672",
+        "ISOCode": "NF"
+    },
+    {
+        "Name": "Northern Mariana Islands",
+        "AreaCode": "+1670",
+        "ISOCode": "MP"
+    },
+    {
+        "Name": "Norway",
+        "AreaCode": "+47",
+        "ISOCode": "NO"
+    },
+    {
+        "Name": "Oman",
+        "AreaCode": "+968",
+        "ISOCode": "OM"
+    },
+    {
+        "Name": "Pakistan",
+        "AreaCode": "+92",
+        "ISOCode": "PK"
+    },
+    {
+        "Name": "Palau",
+        "AreaCode": "+680",
+        "ISOCode": "PW"
+    },
+    {
+        "Name": "Palestinian Territory, Occupied",
+        "AreaCode": "+970",
+        "ISOCode": "PS"
+    },
+    {
+        "Name": "Panama",
+        "AreaCode": "+507",
+        "ISOCode": "PA"
+    },
+    {
+        "Name": "Papua New Guinea",
+        "AreaCode": "+675",
+        "ISOCode": "PG"
+    },
+    {
+        "Name": "Paraguay",
+        "AreaCode": "+595",
+        "ISOCode": "PY"
+    },
+    {
+        "Name": "Peru",
+        "AreaCode": "+51",
+        "ISOCode": "PE"
+    },
+    {
+        "Name": "Philippines",
+        "AreaCode": "+63",
+        "ISOCode": "PH"
+    },
+    {
+        "Name": "Pitcairn",
+        "AreaCode": "+872",
+        "ISOCode": "PN"
+    },
+    {
+        "Name": "Poland",
+        "AreaCode": "+48",
+        "ISOCode": "PL"
+    },
+    {
+        "Name": "Portugal",
+        "AreaCode": "+351",
+        "ISOCode": "PT"
+    },
+    {
+        "Name": "Puerto Rico",
+        "AreaCode": "+1939",
+        "ISOCode": "PR"
+    },
+    {
+        "Name": "Qatar",
+        "AreaCode": "+974",
+        "ISOCode": "QA"
+    },
+    {
+        "Name": "Romania",
+        "AreaCode": "+40",
+        "ISOCode": "RO"
+    },
+    {
+        "Name": "Russia",
+        "AreaCode": "+7",
+        "ISOCode": "RU"
+    },
+    {
+        "Name": "Rwanda",
+        "AreaCode": "+250",
+        "ISOCode": "RW"
+    },
+    {
+        "Name": "Reunion",
+        "AreaCode": "+262",
+        "ISOCode": "RE"
+    },
+    {
+        "Name": "Saint Barthelemy",
+        "AreaCode": "+590",
+        "ISOCode": "BL"
+    },
+    {
+        "Name": "Saint Helena, Ascension and Tristan Da Cunha",
+        "AreaCode": "+290",
+        "ISOCode": "SH"
+    },
+    {
+        "Name": "Saint Kitts and Nevis",
+        "AreaCode": "+1869",
+        "ISOCode": "KN"
+    },
+    {
+        "Name": "Saint Lucia",
+        "AreaCode": "+1758",
+        "ISOCode": "LC"
+    },
+    {
+        "Name": "Saint Martin",
+        "AreaCode": "+590",
+        "ISOCode": "MF"
+    },
+    {
+        "Name": "Saint Pierre and Miquelon",
+        "AreaCode": "+508",
+        "ISOCode": "PM"
+    },
+    {
+        "Name": "Saint Vincent and the Grenadines",
+        "AreaCode": "+1784",
+        "ISOCode": "VC"
+    },
+    {
+        "Name": "Samoa",
+        "AreaCode": "+685",
+        "ISOCode": "WS"
+    },
+    {
+        "Name": "San Marino",
+        "AreaCode": "+378",
+        "ISOCode": "SM"
+    },
+    {
+        "Name": "Sao Tome and Principe",
+        "AreaCode": "+239",
+        "ISOCode": "ST"
+    },
+    {
+        "Name": "Saudi Arabia",
+        "AreaCode": "+966",
+        "ISOCode": "SA"
+    },
+    {
+        "Name": "Senegal",
+        "AreaCode": "+221",
+        "ISOCode": "SN"
+    },
+    {
+        "Name": "Serbia",
+        "AreaCode": "+381",
+        "ISOCode": "RS"
+    },
+    {
+        "Name": "Seychelles",
+        "AreaCode": "+248",
+        "ISOCode": "SC"
+    },
+    {
+        "Name": "Sierra Leone",
+        "AreaCode": "+232",
+        "ISOCode": "SL"
+    },
+    {
+        "Name": "Singapore",
+        "AreaCode": "+65",
+        "ISOCode": "SG"
+    },
+    {
+        "Name": "Slovakia",
+        "AreaCode": "+421",
+        "ISOCode": "SK"
+    },
+    {
+        "Name": "Slovenia",
+        "AreaCode": "+386",
+        "ISOCode": "SI"
+    },
+    {
+        "Name": "Solomon Islands",
+        "AreaCode": "+677",
+        "ISOCode": "SB"
+    },
+    {
+        "Name": "Somalia",
+        "AreaCode": "+252",
+        "ISOCode": "SO"
+    },
+    {
+        "Name": "South Africa",
+        "AreaCode": "+27",
+        "ISOCode": "ZA"
+    },
+    {
+        "Name": "South Sudan",
+        "AreaCode": "+211",
+        "ISOCode": "SS"
+    },
+    {
+        "Name": "South Georgia and the South Sandwich Islands",
+        "AreaCode": "+500",
+        "ISOCode": "GS"
+    },
+    {
+        "Name": "Spain",
+        "AreaCode": "+34",
+        "ISOCode": "ES"
+    },
+    {
+        "Name": "Sri Lanka",
+        "AreaCode": "+94",
+        "ISOCode": "LK"
+    },
+    {
+        "Name": "Sudan",
+        "AreaCode": "+249",
+        "ISOCode": "SD"
+    },
+    {
+        "Name": "SuriName",
+        "AreaCode": "+597",
+        "ISOCode": "SR"
+    },
+    {
+        "Name": "Svalbard and Jan Mayen",
+        "AreaCode": "+47",
+        "ISOCode": "SJ"
+    },
+    {
+        "Name": "Swaziland",
+        "AreaCode": "+268",
+        "ISOCode": "SZ"
+    },
+    {
+        "Name": "Sweden",
+        "AreaCode": "+46",
+        "ISOCode": "SE"
+    },
+    {
+        "Name": "Switzerland",
+        "AreaCode": "+41",
+        "ISOCode": "CH"
+    },
+    {
+        "Name": "Syrian Arab Republic",
+        "AreaCode": "+963",
+        "ISOCode": "SY"
+    },
+    {
+        "Name": "Taiwan",
+        "AreaCode": "+886",
+        "ISOCode": "TW"
+    },
+    {
+        "Name": "Tajikistan",
+        "AreaCode": "+992",
+        "ISOCode": "TJ"
+    },
+    {
+        "Name": "Tanzania, United Republic of Tanzania",
+        "AreaCode": "+255",
+        "ISOCode": "TZ"
+    },
+    {
+        "Name": "Thailand",
+        "AreaCode": "+66",
+        "ISOCode": "TH"
+    },
+    {
+        "Name": "Timor-Leste",
+        "AreaCode": "+670",
+        "ISOCode": "TL"
+    },
+    {
+        "Name": "Togo",
+        "AreaCode": "+228",
+        "ISOCode": "TG"
+    },
+    {
+        "Name": "Tokelau",
+        "AreaCode": "+690",
+        "ISOCode": "TK"
+    },
+    {
+        "Name": "Tonga",
+        "AreaCode": "+676",
+        "ISOCode": "TO"
+    },
+    {
+        "Name": "Trinidad and Tobago",
+        "AreaCode": "+1868",
+        "ISOCode": "TT"
+    },
+    {
+        "Name": "Tunisia",
+        "AreaCode": "+216",
+        "ISOCode": "TN"
+    },
+    {
+        "Name": "Turkey",
+        "AreaCode": "+90",
+        "ISOCode": "TR"
+    },
+    {
+        "Name": "Turkmenistan",
+        "AreaCode": "+993",
+        "ISOCode": "TM"
+    },
+    {
+        "Name": "Turks and Caicos Islands",
+        "AreaCode": "+1649",
+        "ISOCode": "TC"
+    },
+    {
+        "Name": "Tuvalu",
+        "AreaCode": "+688",
+        "ISOCode": "TV"
+    },
+    {
+        "Name": "Uganda",
+        "AreaCode": "+256",
+        "ISOCode": "UG"
+    },
+    {
+        "Name": "Ukraine",
+        "AreaCode": "+380",
+        "ISOCode": "UA"
+    },
+    {
+        "Name": "United Arab Emirates",
+        "AreaCode": "+971",
+        "ISOCode": "AE"
+    },
+    {
+        "Name": "United Kingdom",
+        "AreaCode": "+44",
+        "ISOCode": "GB"
+    },
+    {
+        "Name": "United States",
+        "AreaCode": "+1",
+        "ISOCode": "US"
+    },
+    {
+        "Name": "Uruguay",
+        "AreaCode": "+598",
+        "ISOCode": "UY"
+    },
+    {
+        "Name": "Uzbekistan",
+        "AreaCode": "+998",
+        "ISOCode": "UZ"
+    },
+    {
+        "Name": "Vanuatu",
+        "AreaCode": "+678",
+        "ISOCode": "VU"
+    },
+    {
+        "Name": "Venezuela, Bolivarian Republic of Venezuela",
+        "AreaCode": "+58",
+        "ISOCode": "VE"
+    },
+    {
+        "Name": "Vietnam",
+        "AreaCode": "+84",
+        "ISOCode": "VN"
+    },
+    {
+        "Name": "Virgin Islands, British",
+        "AreaCode": "+1284",
+        "ISOCode": "VG"
+    },
+    {
+        "Name": "Virgin Islands, U.S.",
+        "AreaCode": "+1340",
+        "ISOCode": "VI"
+    },
+    {
+        "Name": "Wallis and Futuna",
+        "AreaCode": "+681",
+        "ISOCode": "WF"
+    },
+    {
+        "Name": "Yemen",
+        "AreaCode": "+967",
+        "ISOCode": "YE"
+    },
+    {
+        "Name": "Zambia",
+        "AreaCode": "+260",
+        "ISOCode": "ZM"
+    },
+    {
+        "Name": "Zimbabwe",
+        "AreaCode": "+263",
+        "ISOCode": "ZW"
+    }
+]

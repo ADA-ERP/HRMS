@@ -1,0 +1,12 @@
+/home/abdi/ADA/src/Shared/Abstractions/bin/Debug/net6.0/Abstractions.deps.json
+/home/abdi/ADA/src/Shared/Abstractions/bin/Debug/net6.0/Abstractions.dll
+/home/abdi/ADA/src/Shared/Abstractions/bin/Debug/net6.0/Abstractions.pdb
+/home/abdi/ADA/src/Shared/Abstractions/obj/Debug/net6.0/Abstractions.csproj.AssemblyReference.cache
+/home/abdi/ADA/src/Shared/Abstractions/obj/Debug/net6.0/Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+/home/abdi/ADA/src/Shared/Abstractions/obj/Debug/net6.0/Abstractions.AssemblyInfoInputs.cache
+/home/abdi/ADA/src/Shared/Abstractions/obj/Debug/net6.0/Abstractions.AssemblyInfo.cs
+/home/abdi/ADA/src/Shared/Abstractions/obj/Debug/net6.0/Abstractions.csproj.CoreCompileInputs.cache
+/home/abdi/ADA/src/Shared/Abstractions/obj/Debug/net6.0/Abstractions.dll
+/home/abdi/ADA/src/Shared/Abstractions/obj/Debug/net6.0/refint/Abstractions.dll
+/home/abdi/ADA/src/Shared/Abstractions/obj/Debug/net6.0/Abstractions.pdb
+/home/abdi/ADA/src/Shared/Abstractions/obj/Debug/net6.0/ref/Abstractions.dll

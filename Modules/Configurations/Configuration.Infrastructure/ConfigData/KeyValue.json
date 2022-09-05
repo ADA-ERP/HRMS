@@ -1,0 +1,17 @@
+﻿[
+  {
+    "Key": "NEXT_EMPlOYEE_Id",
+    "Value": "00000",
+    "Description": "Employee Id generation sequence"
+  },
+  {
+    "Key": "PER_FIX_TO_EMPLOYEE_ID",
+    "Value": "cs",
+    "Description": "Append to employeeId"
+  },
+  {
+    "Key": "DIGIT_LENGTH_OF_EMPOLYEE_ID",
+    "Value": "6",
+    "Description": "Length of digit number for employeeId."
+  }
+]
