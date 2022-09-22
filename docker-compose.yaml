@@ -1,0 +1,14 @@
+version: '1'
+services:
+  hrmsapi:
+    build: .
+    ports:
+      - 8080:80
+      - 7093:433
+    environment:
+      - ASPNETCORE_URLS= "https://+;http://+" 
+      - ASPNETCORE_HTTPS_PORT= "7093" 
+      - ASPNETCORE_ENVIRONMENT= "Development" 
+    volumes:
+      - ${HOME}/.microsoft/usersecrets/:/root/.microsoft/usersecrets
+      - ${HOME}/.aspnet/https:/root/.aspnet/https/ abdi123/hrms
