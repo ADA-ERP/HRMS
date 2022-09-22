@@ -6,11 +6,12 @@ namespace Core.Domains.Position
 {
     public class PositionChangeReason : BaseEntity
     {
-        public static PositionChangeReason Prombotion = new PositionChangeReason(1, "Promotion");
-        public static PositionChangeReason Demotion = new PositionChangeReason(2, "Demotion");
-        public static PositionChangeReason Correction = new PositionChangeReason(3, "Correction");
-        public static PositionChangeReason Transfare = new PositionChangeReason(4, "Employment");
-        public static PositionChangeReason Employment = new PositionChangeReason(4, "Employment");
+        public static PositionChangeReason Promotion = new PositionChangeReason("Promotion");
+        public static PositionChangeReason Demotion = new PositionChangeReason("Demotion");
+        public static PositionChangeReason Correction = new PositionChangeReason("Correction");
+        public static PositionChangeReason Transfer = new PositionChangeReason("Transfer");
+        public static PositionChangeReason Employment = new PositionChangeReason("Employment");
+        public static PositionChangeReason Other = new PositionChangeReason("Other");
 
         public string? Name { get; private set; }
         private PositionChangeReason()
@@ -18,9 +19,8 @@ namespace Core.Domains.Position
 
         }
 
-        public PositionChangeReason(int id, string name)
+        public PositionChangeReason(string name)
         {
-            Id = id;
             Name = name;
         }
     }

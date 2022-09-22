@@ -1,10 +1,12 @@
 using Infrastructure.Modules;
+using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
 
 namespace Shared.Infrastructure.Api
 {
     internal static class Extension
     {
+         static string MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
         public static IServiceCollection AddCorsPolicies(this IServiceCollection services)
         {
             var corsOptions = services.GetOptions<CorsOptions>("cors");
@@ -17,7 +19,7 @@ namespace Shared.Infrastructure.Api
                     var allowedMethods = corsOptions.AllowedMethods ?? Enumerable.Empty<string>();
                     var allowedOrigins = corsOptions.AllowedOrigins ?? Enumerable.Empty<string>();
                     var exposedHeaders = corsOptions.ExposedHeaders ?? Enumerable.Empty<string>();
-                    cors.AddPolicy("cors", corsBuilder =>
+                    cors.AddPolicy(MyAllowSpecificOrigins, corsBuilder =>
                     {
                         var origins = allowedOrigins.ToArray();
                         if (corsOptions.AllowCredentials && origins.FirstOrDefault() != "*")
@@ -36,7 +38,11 @@ namespace Shared.Infrastructure.Api
                     });
                 });
         }
-
+        public static IApplicationBuilder UseCustomCore(this IApplicationBuilder application)
+        {  application.UseCors(MyAllowSpecificOrigins);
+         
+            return application;
+        }
        
     }
 }

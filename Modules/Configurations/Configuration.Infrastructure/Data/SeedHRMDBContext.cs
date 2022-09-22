@@ -3,6 +3,7 @@
 using System.Runtime.CompilerServices;
 using System.Text.Json;
 using Core.Domains;
+using Core.Domains.Position;
 using Domains.Directory;
 using Microsoft.Extensions.Logging;
 [assembly:InternalsVisibleTo("Configuration.Api")]
@@ -24,6 +25,7 @@ namespace Configuration.Infrastructure.Data
                     }
                     await hRMDBContext.SaveChangesAsync();
                 }
+               
                 if(!hRMDBContext.KeyValues.Any())
                 {
                     var keyValueData  =  File.ReadAllText(CONFIG_DATA_DIRECTORY+"/KeyValue.json");
@@ -45,11 +47,24 @@ namespace Configuration.Infrastructure.Data
                     }
                     await hRMDBContext.SaveChangesAsync();
                 }
+
+                if(!hRMDBContext.PositionChangeReasons.Any())
+                {
+                   await hRMDBContext.PositionChangeReasons.AddRangeAsync(
+                        PositionChangeReason.Correction,
+                        PositionChangeReason.Promotion,
+                        PositionChangeReason.Demotion,
+                        PositionChangeReason.Transfer,
+                        PositionChangeReason.Employment,
+                        PositionChangeReason.Other                    
+                    );
+                     await hRMDBContext.SaveChangesAsync();
+                }
             }
             catch (Exception ex)
             {
                 var logger = loggerFactory.CreateLogger<SeedHRMDBContext>();
-                logger.LogError(ex,"Error while seeding recored!.");
+                logger.LogError(ex,"Error while seeding!.");
             }
         }
     }

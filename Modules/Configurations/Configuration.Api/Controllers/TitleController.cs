@@ -3,7 +3,6 @@ using Core.Domains;
 using Microsoft.AspNetCore.Mvc;
 using Shared.Abstractions.Api;
 using Shared.Abstractions.DataAccess;
-using Shared.Infrastructure.Specification;
 
 namespace Api.Controllers
 {

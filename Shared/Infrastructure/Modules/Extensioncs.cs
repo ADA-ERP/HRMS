@@ -16,14 +16,17 @@ namespace Infrastructure.Modules
 {
     public static class Extension
     {
-        static string MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
-        public static IServiceCollection AddInfrastructure(this IServiceCollection service)
+       
+        public static IServiceCollection AddInfrastructure(this IServiceCollection services)
         {
-            service.AddControllers().ConfigureApplicationPartManager(manage =>
-               manage.FeatureProviders.Add(new InternalControllerFeatureProvider()));
-            service.AddCorsPolicies();
+            services.AddCorsPolicies();
+            services.AddControllers().ConfigureApplicationPartManager(manage =>
+            manage.FeatureProviders.Add(new InternalControllerFeatureProvider()));
+            services.AddMvcCore(op=>{
+            op.SuppressAsyncSuffixInActionNames = false;
+            });
            
-            return service;
+            return services;
         }
 
         public static IServiceCollection AddSqlServerOption<T>(this IServiceCollection services) where T : DbContext
@@ -56,7 +59,8 @@ namespace Infrastructure.Modules
         public static IApplicationBuilder UseInfrastructure(this IApplicationBuilder application)
         {
             application.UseMiddleware<ExceptionMiddleware>();
-            application.UseCors(MyAllowSpecificOrigins);
+            application.UseStatusCodePagesWithReExecute("/errors/{0}");
+            application.UseCustomCore();
          
             return application;
         }
